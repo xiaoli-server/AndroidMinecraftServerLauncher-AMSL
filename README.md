@@ -1,2 +1,2 @@
 # AndroidMinecraftServerLauncher-AMSL
-安卓我的世界服务端启动器（ASML）
+本项目为Minecraft-server-in-android-phone项目的延续，旨在通过termux部署我的世界服务端。
