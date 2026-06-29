@@ -1,1 +1,0 @@
-cp AMSLSpare/mcserver15.sh 
